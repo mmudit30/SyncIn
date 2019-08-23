@@ -1,0 +1,3 @@
+angry
+happy
+neutral or sad
