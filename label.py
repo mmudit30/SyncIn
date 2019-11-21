@@ -1,8 +1,8 @@
 import cv2
 import label_image, play_music_pygame
-import sys, os, subprocess
+import os
 from collections import Counter
-from collections import defaultdict
+
 size = 4
 
 classifier = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
