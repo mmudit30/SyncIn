@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fdc3860-2043-4926-b42f-2e3b0006fba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/songs/Ae Dil Hai Mushkil.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Alan Walker, Sabrina Carpenter &amp; Farruko - On My Way.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Attention.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Bekhayali.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Beside You.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Better Man.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/DNCE - Cake By The Ocean.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Easier.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Ek Main Aur Ekk Tu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/I Knew You Were Trouble.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Ilahi.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/In the End.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Jet Black Heart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Jonas Brothers - Sucker.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Justin Timberlake - CAN T STOP THE FEELING (From DreamWorks Animation s Trolls ) (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Kygo_Selena_Gomez_-_It_Ain_t_Me_with_Selena_Gomez_Audio_(mp3.pm).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Lie To Me.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Look What You Made Me Do.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Martin Garrix - Scared To Be Lonely feat. Dua Lipa.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/One Direction - Live While We re Young.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Pehla Pyaar.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Stitches.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Teeth.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Vapor.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Want You Back.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/We Don t Talk Anymore.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Youngblood.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/love.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Angry.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Angry.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Happy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Happy.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeutralOrSad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NeutralOrSad.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neutral.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/play_music_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/play_music_pygame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrained_graph.pb" beforeDir="false" afterPath="$PROJECT_DIR$/retrained_graph.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/01 Katra Katra - Alone (PagalWorld.com) 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/01 Khamoshiyan - Khamoshiyan (Arijit Singh) 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/01 Sooraj Dooba Hain Yaaron - Roy (Arijit Singh) 320Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/01 Superman Tevar  Wajid  190kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/02 Love Is a Waste of Time - PK (PagalWorld.com) 190kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/02 Tu Hai Ki Nahi (Roy) - Ankit Tiwari - 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/02 Tu Har Lamha - Khamoshiyan (Arijit Singh) 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/02_-_Abhi_Toh_Party_Shuru_Hui_Hai(MyMp3Song.Com).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/03 - Photocopy - DownloadMing.SE.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/03 Chaar Kadam - PK (Shaan)  - 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/03_-_Raat_Bhar(MyMp3Song.Com).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/04 Nanga Punga Dost - PK (Shreya Ghoshal) 190Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/06 Lets Celebrate - Tevar  PagalWorld.com  190kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/Phatte Tak Nachna - Dolly Ki Doli 320Kbps.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/neutral/love.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/sad/love.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/label.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="161">
+              <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -76,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/play_music_pygame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -137,8 +87,8 @@
         <option value="$PROJECT_DIR$/retrain.py" />
         <option value="$PROJECT_DIR$/play_music.py" />
         <option value="$PROJECT_DIR$/try.py" />
-        <option value="$PROJECT_DIR$/play_music_pygame.py" />
         <option value="$PROJECT_DIR$/label.py" />
+        <option value="$PROJECT_DIR$/play_music_pygame.py" />
       </list>
     </option>
   </component>
@@ -185,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try">
+  <component name="RunManager" selected="Python.label">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Mudit_syncin_show" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,8 +272,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try" />
         <item itemvalue="Python.label" />
+        <item itemvalue="Python.try" />
         <item itemvalue="Python.face_crop" />
         <item itemvalue="Python.retrain" />
         <item itemvalue="Python.retarain" />
@@ -345,13 +295,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16721745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16721745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3526912" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3512748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,20 +381,20 @@
     <entry file="file://$PROJECT_DIR$/label.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/play_music_pygame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/label.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="161">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play_music_pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>

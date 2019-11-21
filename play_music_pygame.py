@@ -9,7 +9,7 @@ def main(emotion_num):
     pygame.mixer.init()
     emotion_dict = {'1':'Angry', '2':'Happy', '3':'NeutralOrSad'}
     filename=emotion_dict[emotion_num]+".csv"
-    df = pd.read_csv('emotions_file'+filename)
+    df = pd.read_csv('emotions_file/'+filename)
 
     df_top = (df.columns)[0]
     count = df[df_top].count()
