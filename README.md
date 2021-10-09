@@ -16,3 +16,14 @@ Libraries used:
 5. Datetime 
 6. Numpy 
 7. Tensorflow 
+
+Flow (Layman Language):
+* Train model using retrain.py(see 'how to train.txt'). It Creates a model file retrain.pb
+* run label.py
+It detects the face using cv2(OpenCV) using haarcascade
+* provide the face image to label_image.py -> returns the detected emotion(in integer 1/2/3/4) using trained model file. 
+Store emotions 10 times.
+* check the emotion with highest count -> map the integer to the correct emotion(as defined in dictionary)
+* Provide the emotion to play_music_pygame.py -> under '/emotions file' check for the corresponding csv.
+* Read any random song name from the csv -> Play the corresponding song from '/songs'
+Show necessary logs on the command prompt.
